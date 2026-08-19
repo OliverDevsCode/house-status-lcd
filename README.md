@@ -10,6 +10,8 @@ Uses the LCD with 5 buttons to toggle a list of tenants at a uni house so others
 
 ![Schematic](images/schematic.png)
 
+![Schematic](images/schematic_2.png)
+
 ## Wiring
 
 **LCD**
